@@ -1,115 +1,108 @@
-# Uber_analysis
+# 🚖 Uber Ride Analytics Dashboard
 
-1. Project Title / Headline
+## 1. Project Title / Headline
 
-Uber Ride Analytics – Power BI Dashboard
+**Uber Ride Analytics – Power BI Dashboard**  
 An interactive Business Intelligence dashboard to analyze Uber ride performance, revenue trends, vehicle contribution, and customer behavior.
 
-2. Short Description / Purpose
+---
+
+## 2. Short Description / Purpose
 
 This Power BI dashboard provides a complete overview of Uber ride operations including bookings, revenue, cancellations, vehicle performance, rider insights, and location trends.
 
 It helps stakeholders monitor KPIs, identify demand patterns, and make data-driven business decisions.
 
-3. Tech Stack
+---
 
-• 📊 Power BI Desktop
-• 🔄 Power Query (Data Cleaning & Transformation)
-• 🧠 DAX (Calculated Measures & KPIs)
-• 🔗 Data Modeling & Relationships
-• 📁 File Format: .pbit
+## 3. Tech Stack
 
-4. Data Source
+- 📊 Power BI Desktop  
+- 🔄 Power Query (Data Cleaning & Transformation)  
+- 🧠 DAX (Calculated Measures & KPIs)  
+- 🔗 Data Modeling  
+- 📁 File Format: `.pbit`
+
+---
+
+## 4. Data Source
 
 The dataset contains Uber ride booking data including:
 
-Booking status (Completed / Cancelled)
+- Booking status (Completed / Cancelled)  
+- Revenue & Distance  
+- Vehicle types  
+- Rider & Driver ratings  
+- Payment methods  
+- Pickup & Drop locations  
+- Time-based ride data  
 
-Revenue & Distance
+---
 
-Vehicle types
+## 5. Features / Highlights
 
-Rider & Driver ratings
-
-Payment methods
-
-Pickup & Drop locations
-
-Time-based ride data
-
-5. Features / Highlights
-• Business Problem
+### • Business Problem
 
 Uber generates large operational data daily, but without structured analytics it becomes difficult to:
 
-Track revenue drivers
+- Track revenue drivers  
+- Identify cancellation patterns  
+- Monitor vehicle performance  
+- Detect high-demand areas and time slots  
 
-Identify cancellation patterns
+---
 
-Monitor vehicle performance
-
-Detect high-demand areas and time slots
-
-• Goal of the Dashboard
+### • Goal of the Dashboard
 
 To build a dynamic Power BI dashboard that:
 
-Tracks key KPIs
+- Tracks key KPIs  
+- Analyzes bookings & revenue trends  
+- Evaluates vehicle contribution  
+- Understands rider behavior  
+- Identifies busy locations & time slots  
 
-Analyzes bookings & revenue trends
+---
 
-Evaluates vehicle contribution
+### • Walkthrough of Key Visuals
 
-Understands rider behavior
+**Overview Page**
+- KPIs: Completed Bookings (93K), Lost Bookings (57K), Revenue (52M), Total Distance (2.51M), Avg Distance  
+- Monthly & Quarterly Booking Trends  
+- Revenue by Vehicle Type  
+- Top Pickup & Drop Locations  
+- Average Customer & Driver Ratings  
 
-Identifies busy locations & time slots
+**Vehicle Page**
+- Booking Count by Vehicle  
+- Revenue Contribution  
 
-• Walkthrough of Key Visuals
+**Revenue Page**
+- Revenue by Customer, Vehicle & Payment Method  
+- Monthly & Quarterly Trends  
 
-Overview Page
+**Rider Page**
+- Cancellation Reasons  
+- First, Returning & Regular Riders  
 
-KPIs: Completed Bookings (93K), Lost Bookings (57K), Revenue (52M), Total Distance (2.51M), Avg Distance
+**Location Page**
+- Total Distance by Month & Vehicle  
+- Busy Time Slots & Areas  
 
-Monthly & Quarterly Booking Trends
+---
 
-Revenue by Vehicle Type
+### • Business Impact & Insights
 
-Top Pickup & Drop Locations
+- Identified top revenue-generating vehicles  
+- Highlighted peak booking periods  
+- Detected key cancellation reasons  
+- Analyzed rider loyalty trends  
+- Improved demand forecasting by location  
 
-Average Customer & Driver Ratings
+---
 
-Vehicle Page
+## 6. Dashboard Preview
 
-Booking Count by Vehicle
+Add your dashboard screenshot here:
 
-Revenue Contribution
-
-Revenue Page
-
-Revenue by Customer, Vehicle & Payment Method
-
-Monthly & Quarterly Trends
-
-Rider Page
-
-Cancellation Reasons
-
-First, Returning & Regular Riders
-
-Location Page
-
-Total Distance by Month & Vehicle
-
-Busy Time Slots & Areas
-
-• Business Impact & Insights
-
-Identified top revenue-generating vehicles
-
-Highlighted peak booking periods
-
-Detected key cancellation reasons
-
-Analyzed rider loyalty trends
-
-Improved demand forecasting by location
+![Dashboard Preview](your-image-link-here)
