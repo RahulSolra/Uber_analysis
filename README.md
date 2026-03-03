@@ -103,6 +103,4 @@ To build a dynamic Power BI dashboard that:
 
 ## 6. Dashboard Preview
 
-Add your dashboard screenshot here:
-
 ![Dashboard Preview](https://github.com/RahulSolra/Uber_analysis/blob/main/Insights.png)
